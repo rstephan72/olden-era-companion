@@ -1,0 +1,47 @@
+<svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="900" height="460" fill="#f5efe2"/>
+  <text x="450" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a2b1a">Dungeon — Army Composition Emphasis by Game Stage</text>
+  <text x="450" y="54" text-anchor="middle" font-size="12" fill="#5c4a36" font-style="italic">Bar height = relative priority for gold/time investment, not raw unit count</text>
+
+  <!-- axis -->
+  <line x1="90" y1="380" x2="850" y2="380" stroke="#3a2b1a" stroke-width="2"/>
+
+  <!-- legend -->
+  <rect x="90" y="90" width="16" height="16" fill="#a8763e"/>
+  <text x="112" y="103" font-size="12" fill="#3a2b1a">Onyx Dancers (ranged core)</text>
+  <rect x="330" y="90" width="16" height="16" fill="#6b4226"/>
+  <text x="352" y="103" font-size="12" fill="#3a2b1a">Minotaurs (frontline screen)</text>
+  <rect x="570" y="90" width="16" height="16" fill="#8a3b3b"/>
+  <text x="592" y="103" font-size="12" fill="#3a2b1a">Medusae (control layer)</text>
+  <rect x="90" y="114" width="16" height="16" fill="#2f4f6b"/>
+  <text x="112" y="127" font-size="12" fill="#3a2b1a">Black Dragons (win condition)</text>
+
+  <!-- Early stage group -->
+  <g>
+    <rect x="130" y="260" width="46" height="120" fill="#a8763e"/>
+    <rect x="182" y="345" width="46" height="35" fill="#6b4226"/>
+    <rect x="234" y="380" width="46" height="0" fill="#8a3b3b"/>
+    <rect x="286" y="380" width="46" height="0" fill="#2f4f6b"/>
+    <text x="228" y="400" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a2b1a">Early</text>
+  </g>
+
+  <!-- Mid stage group -->
+  <g>
+    <rect x="400" y="200" width="46" height="180" fill="#a8763e"/>
+    <rect x="452" y="150" width="46" height="230" fill="#6b4226"/>
+    <rect x="504" y="290" width="46" height="90" fill="#8a3b3b"/>
+    <rect x="556" y="380" width="46" height="0" fill="#2f4f6b"/>
+    <text x="500" y="400" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a2b1a">Mid</text>
+  </g>
+
+  <!-- Late stage group -->
+  <g>
+    <rect x="670" y="230" width="46" height="150" fill="#a8763e"/>
+    <rect x="722" y="270" width="46" height="110" fill="#6b4226"/>
+    <rect x="774" y="310" width="46" height="70" fill="#8a3b3b"/>
+    <rect x="826" y="70" width="46" height="310" fill="#2f4f6b"/>
+    <text x="770" y="400" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a2b1a">Late</text>
+  </g>
+
+  <text x="450" y="430" text-anchor="middle" font-size="12" fill="#5c4a36">Read as: ranged core matters throughout, Minotaurs peak at the mid-game screening job, Black Dragons are a late-only investment.</text>
+</svg>

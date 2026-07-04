@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 640" font-family="Helvetica, Arial, sans-serif">
+  <style>
+    .q { fill:#1d3557; }
+    .go { fill:#2a9d8f; }
+    .no { fill:#e63946; }
+    .maybe { fill:#e9a13b; }
+    .box { rx:8; }
+    text { fill:#ffffff; font-size:14px; text-anchor:middle; }
+    .small { font-size:12px; }
+    line { stroke:#457b9d; stroke-width:2; }
+    .lbl { fill:#1d3557; font-size:12px; font-style:italic; text-anchor:middle; }
+  </style>
+  <rect class="q box" x="300" y="20" width="260" height="50"/>
+  <text x="430" y="42">Do you know the enemy's</text>
+  <text x="430" y="58">EXACT numbers?</text>
+  <line x1="430" y1="70" x2="200" y2="130"/>
+  <text class="lbl" x="290" y="95">no</text>
+  <line x1="430" y1="70" x2="430" y2="150"/>
+  <text class="lbl" x="450" y="105">yes</text>
+
+  <rect class="maybe box" x="80" y="130" width="240" height="60"/>
+  <text x="200" y="152">Cast Read Minds / Groundsight</text>
+  <text class="small" x="200" y="172">7-10 mana beats a wrong guess</text>
+  <line x1="200" y1="190" x2="380" y2="220"/>
+
+  <rect class="q box" x="300" y="150" width="260" height="50" transform="translate(0,70)"/>
+  <text x="430" y="242">Can you win with ZERO losses?</text>
+  <text class="small" x="430" y="258">(range advantage + control spells cover the gap)</text>
+  <line x1="430" y1="270" x2="200" y2="330"/>
+  <text class="lbl" x="290" y="295">yes</text>
+  <line x1="430" y1="270" x2="640" y2="330"/>
+  <text class="lbl" x="560" y="295">no</text>
+
+  <rect class="go box" x="90" y="330" width="220" height="60"/>
+  <text x="200" y="355">TAKE IT — always</text>
+  <text class="small" x="200" y="375">Free XP compounds; skipping is a loss</text>
+
+  <rect class="q box" x="530" y="330" width="220" height="50"/>
+  <text x="640" y="352">Are the losses REPLACEABLE</text>
+  <text x="640" y="368">this week?</text>
+  <line x1="640" y1="380" x2="520" y2="440"/>
+  <text class="lbl" x="555" y="405">yes</text>
+  <line x1="640" y1="380" x2="760" y2="440"/>
+  <text class="lbl" x="725" y="405">no</text>
+
+  <rect class="q box" x="410" y="440" width="220" height="50"/>
+  <text x="520" y="462">Does winning unlock a mine,</text>
+  <text x="520" y="478">artifact, or dwelling NOW?</text>
+  <line x1="520" y1="490" x2="420" y2="550"/>
+  <text class="lbl" x="445" y="515">yes</text>
+  <line x1="520" y1="490" x2="620" y2="550"/>
+  <text class="lbl" x="595" y="515">no</text>
+
+  <rect class="go box" x="310" y="550" width="220" height="60"/>
+  <text x="420" y="575">TAKE IT</text>
+  <text class="small" x="420" y="595">Paying units for compounding assets</text>
+
+  <rect class="maybe box" x="550" y="550" width="220" height="60"/>
+  <text x="660" y="575">WAIT one growth week</text>
+  <text class="small" x="660" y="595">Same fight, cheaper, next Monday</text>
+
+  <rect class="no box" x="680" y="440" width="170" height="60"/>
+  <text x="765" y="465">SKIP or REROLL</text>
+  <text class="small" x="765" y="485">Primordial Chaos exists;</text>
+  <text class="small" x="765" y="498">so does walking away</text>
+</svg>
