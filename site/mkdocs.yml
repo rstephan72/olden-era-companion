@@ -1,0 +1,64 @@
+site_name: Olden Era Companion
+site_description: The complete strategy handbook for Heroes of Might and Magic - Olden Era
+docs_dir: docs
+site_dir: rendered
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Front Matter:
+      - How to Use This Book: 00-front-matter/01-introduction.md
+      - The Book at a Glance: 00-front-matter/02-book-map.md
+  - Foundations: 01-foundations/foundations.md
+  - Factions:
+      - Temple: 02-factions/temple/overview.md
+      - Necropolis: 02-factions/necropolis/overview.md
+      - Grove: 02-factions/grove/overview.md
+      - Hive: 02-factions/hive/overview.md
+      - Schism: 02-factions/schism/overview.md
+      - Dungeon: 02-factions/dungeon/overview.md
+      - Matchup Grid: 02-factions/matchups.md
+  - Heroes: 03-heroes/heroes-overview.md
+  - Magic:
+      - Daylight: 04-magic/daylight/daylight-school.md
+      - Nightshade: 04-magic/nightshade/nightshade-school.md
+      - Arcane: 04-magic/arcane/arcane-school.md
+      - Primal: 04-magic/primal/primal-school.md
+      - Neutral: 04-magic/neutral/neutral-school.md
+  - Skills: 05-skills/skills-overview.md
+  - Artifacts: 06-artifacts/artifacts-overview.md
+  - Creatures: 07-creatures/neutral-creatures.md
+  - Town Development: 08-town-development/town-development.md
+  - Decision Trees: 09-decision-trees/decision-trees.md
+  - Campaign: 10-campaign/campaign.md
+  - Appendix:
+      - Combat Mechanics: 99-appendices/combat-mechanics.md

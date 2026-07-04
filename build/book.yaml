@@ -1,0 +1,15 @@
+---
+title: "Olden Era Companion"
+subtitle: "The Complete Strategy Handbook for Heroes of Might and Magic: Olden Era"
+author: "The Olden Era Companion Project"
+date: "July 2026 · Early Access edition"
+toc: true
+toc-depth: 3
+number-sections: true
+documentclass: report
+geometry: margin=1in
+fontsize: 11pt
+colorlinks: true
+linkcolor: NavyBlue
+urlcolor: NavyBlue
+---
