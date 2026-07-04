@@ -149,6 +149,52 @@ faction's rare-resource bottleneck.
 
 ***
 
+## Abilities — the passive and Focus layer
+
+How this works (verified from first-party documentation): every unit
+carries up to two kinds of special abilities. **Passives are always
+on** — auras, triggers, movement types, attack-type clauses. **Actives
+cost Focus Points**, which units accumulate by attacking and being
+attacked; bank enough and the ability fires. This layer is where
+Olden Era's combat depth actually lives — two stacks with identical
+stat lines can play completely differently — and it's what the Focus
+economy tools in this book (Murmuring, Energize, Battle March, Fancy
+Mask, Silence) exist to accelerate or deny.
+
+**The complete Necropolis ability set (verified in full):** this
+roster's ability density is the faction's real power budget — every
+line carries at least one, and the stat tables above list them per
+unit. Organized by what they do:
+
+| Theme | Unit → Ability | Type | Effect |
+|---|---|---|---|
+| Sustain | Wight line → Memory Devourer I/II | Passive | 20/40% of damage dealt returns as HP, can create temporary bonus units |
+| Sustain | Lich → Rewind Death | **Active** | Heals 20–30 HP per Lich and **revives the dead** |
+| Sustain | Sanguine Lich → Unlife, Undeath | Passive | 20% of its damage heals the *whole army* |
+| Sustain | Vampire line → Vampirism | Passive | 40% of damage dealt returns as HP, revives fallen |
+| Sustain | Vampire Scholar → Blood Transfusion | **Active** | Drains an enemy to heal/revive an ally |
+| Army-from-nowhere | Graverobber line → Dig Up Bones | **Active** | Summons 2 Skeletons per Graverobber |
+| Army-from-nowhere | Merchant of Death → Ensnare Memories | **Active** | Summons Wights |
+| Army-from-nowhere | Kennelmaster → Fetch | **Active** | Summons Undead Pets |
+| Army-from-nowhere | Barghest → Call of the Pack | **Active** | Summons 20% of its own stack |
+| Kill enablers | Kennelmaster → Hail! | **Active** | Marks an enemy: it **always takes maximum damage** |
+| Kill enablers | Hollow Reaper → Death Stare | Passive | Every attack kills +1 unit, up to Tier 7 |
+| Kill enablers | Pestilent Lich → Death's Embrace | **Active** | Detonates all effects on a target at full remaining value |
+| Debuff/control | Dread Knight line → Dreadful Presence | Passive | Enemy −1/−2 Morale aura |
+| Debuff/control | Wraith → Howl of the Banshee | **Active** | Forces an enemy to a random adjacent hex |
+| Debuff/control | Phantasm → Nightmares; Merchant → poison; Armored Hound → Lacerated Wounds | Passive | Stacking damage-over-time on hit |
+| Stat theft | Barghest → Bone Crusher; Avatar of War → War Incarnate | Passive | Steal 1 Def/Atk per strike, undispellable |
+| Defense | Undead Pet line → Melee Defense I | Passive | −30% melee damage taken |
+
+**Focus priorities:** spend on the summoners first — Dig Up Bones and
+Call of the Pack convert Focus directly into bodies, the faction's
+currency. **Hail! is the exception that outranks everything** when a
+kill matters: mark → volley = a creature-borne Masterful
+Vulnerability. Rewind Death is the emergency brake; don't spend Lich
+Focus on anything else while a core stack is at risk.
+
+***
+
 ## Recommended magic schools (cross-referenced)
 
 **Primary: Nightshade.** The faction text says "Strong Debuffs &

@@ -149,6 +149,45 @@ bottleneck. **Flaming** for the stats; **Energy** for the armor.
 
 ***
 
+## Abilities — the passive and Focus layer
+
+How this works (verified from first-party documentation): every unit
+carries up to two kinds of special abilities. **Passives are always
+on** — auras, triggers, movement types, attack-type clauses. **Actives
+cost Focus Points**, which units accumulate by attacking and being
+attacked; bank enough and the ability fires. This layer is where
+Olden Era's combat depth actually lives — two stacks with identical
+stat lines can play completely differently — and it's what the Focus
+economy tools in this book (Murmuring, Energize, Battle March, Fancy
+Mask, Silence) exist to accelerate or deny.
+
+**Verified Grove abilities:** this roster's special layer is unusually
+*passive*-weighted — its clauses are printed on the attack types
+rather than banked in Focus bars:
+
+| Unit | Ability | Type | Effect |
+|---|---|---|---|
+| Faun | Ranged, no melee penalty | Passive | Full-strength shots even when engaged |
+| Faun Archer | No penalties at all | Passive | Ignores distance falloff *and* melee penalty |
+| Dawn Hoplet | No Counterattack | Passive | Its melee strikes are never punished |
+| Murmurmancer | Fixed 18–18 damage | Passive | Zero-variance volleys |
+| Qilin line | Native Luck 3 | Passive | Constant Lucky Strike pressure (+18% base chance) |
+| Herbomancer line | Long Reach | Passive | Attacks over the front rank without provoking |
+
+The named *active* abilities of the Iriyad/Herbomancer/Phoenix lines
+(the wiki's per-unit pages carry them) are the category's remaining
+fetch — tracked in the audit. What's already verified reshapes play:
+
+**Focus priorities:** Grove is the faction where the *hero* is the
+Focus engine — Murmuring hands you 1–3 charges at battle start before
+any unit swings. Until the per-unit actives are documented, the
+verified play is spending that head start through the Expert
+Murmuring subskills (cooldown refunds, Heroic Strike riders, +2 all
+attributes per spend) — the hero converts the faction's Focus surplus
+even when units bank theirs.
+
+***
+
 ## Recommended magic schools (cross-referenced)
 
 **Primary: Primal — Grove owns this school at the hero level.** Both

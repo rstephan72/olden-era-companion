@@ -148,6 +148,39 @@ Dungeon's dragon economy — budget Gems from mid-game.
 
 ***
 
+## Abilities — the passive and Focus layer
+
+How this works (verified from first-party documentation): every unit
+carries up to two kinds of special abilities. **Passives are always
+on** — auras, triggers, movement types, attack-type clauses. **Actives
+cost Focus Points**, which units accumulate by attacking and being
+attacked; bank enough and the ability fires. This layer is where
+Olden Era's combat depth actually lives — two stacks with identical
+stat lines can play completely differently — and it's what the Focus
+economy tools in this book (Murmuring, Energize, Battle March, Fancy
+Mask, Silence) exist to accelerate or deny.
+
+**Verified Temple abilities:**
+
+| Unit | Ability | Type | Effect |
+|---|---|---|---|
+| Griffin line | Flying | Passive | Movement ignores obstacles and traps |
+| Griffin line | Unlimited Retaliation | Passive | Never runs out of counterattacks — every melee hit against it is punished |
+| Marksman | No Range Penalty | Passive | Full damage at any distance |
+| Archangel | Sharpshooter | Passive | No range *or* melee penalties of any kind |
+| Angel line | Resurrection | **Active (Focus)** | Revives fallen allied troops mid-battle — the ability that makes the T7 one of the best units in the game |
+
+**Focus priorities:** Temple has exactly one active that matters, and
+it's the best one printed: **bank the Angels' Focus for
+Resurrection.** Don't leak their charges on ordinary volleys when a
+key stack is about to break — a timed Resurrection swings more HP
+than any Angel attack. The Griffins' unlimited retaliation is the
+passive to build *around*: park them where the swarm factions must
+engage, and every wave pays. (Per-unit ability text for the remaining
+lines lives on individual unit pages — tracked in the audit.)
+
+***
+
 ## Recommended magic schools (cross-referenced to the magic chapters)
 
 **Primary: Daylight — this is not a suggestion, it's the faction's

@@ -159,6 +159,45 @@ the royal anchor; **Huntress** (70 fixed, never counterattacked, Speed
 
 ***
 
+## Abilities — the passive and Focus layer
+
+How this works (verified from first-party documentation): every unit
+carries up to two kinds of special abilities. **Passives are always
+on** — auras, triggers, movement types, attack-type clauses. **Actives
+cost Focus Points**, which units accumulate by attacking and being
+attacked; bank enough and the ability fires. This layer is where
+Olden Era's combat depth actually lives — two stacks with identical
+stat lines can play completely differently — and it's what the Focus
+economy tools in this book (Murmuring, Energize, Battle March, Fancy
+Mask, Silence) exist to accelerate or deny.
+
+**Verified Hive abilities:**
+
+| Unit | Ability | Type | Effect |
+|---|---|---|---|
+| Parasite line | Long Reach | Passive | Hits the hex behind an adjacent hex — no counterattack, no movement |
+| Pyroboros | Ranged, no melee penalty | Passive | The swarm's surprise artillery keeps full damage in contact |
+| Hive Huntress | No Counterattack | Passive | 70-damage strikes that are never punished |
+| Chanter | Support flyer profile | Passive | Speed 11 / Initiative 4 — a late-round, long-range ability carrier |
+| Fire Larva | Expendable | — | The Summon Swarm output; exists to absorb hits and Focus-farm |
+
+The faction keyword is *Creature Abilities*, and the roster's named
+actives (Scorpion, Reaver, Waurms, Queen lines) are the audit's
+remaining per-unit fetch. Two verified mechanics already define the
+Focus game here:
+
+**Focus priorities:** Hive both *generates* and *feeds on* Focus
+faster than anyone — Long Reach T1s trading safely builds charges,
+and every egg the enemy is forced to kill (two hits each) hands your
+survivors more. The verified loop: Summon Swarm eggs → enemy wastes
+attacks → your real stacks bank Focus → actives fire first. Pair with
+the Arcane Energize package (the faction chapter's standing
+recommendation) and round one opens with abilities already loaded.
+Fear enemy **Silence** above any damage spell — it switches this
+entire layer off.
+
+***
+
 ## Recommended magic schools (cross-referenced)
 
 **Primary: Daylight — one spell above all: Haste, because Hive owns

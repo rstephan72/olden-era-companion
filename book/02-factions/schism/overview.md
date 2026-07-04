@@ -101,6 +101,44 @@ are what independent sourcing confirms.
 
 ***
 
+## Abilities — the passive and Focus layer
+
+How this works (verified from first-party documentation): every unit
+carries up to two kinds of special abilities. **Passives are always
+on** — auras, triggers, movement types, attack-type clauses. **Actives
+cost Focus Points**, which units accumulate by attacking and being
+attacked; bank enough and the ability fires. This layer is where
+Olden Era's combat depth actually lives — two stacks with identical
+stat lines can play completely differently — and it's what the Focus
+economy tools in this book (Murmuring, Energize, Battle March, Fancy
+Mask, Silence) exist to accelerate or deny.
+
+**Verified Schism abilities:**
+
+| Unit | Ability | Type | Effect |
+|---|---|---|---|
+| Ra'Shoth / Grand Shoth / Abyssal Envoy | Summoning Rite | **Active (once per battle)** | Raises a stack of that unit from a friendly corpse at 50% HP — the Grand Shoth/Envoy versions are **permanent** and survive the battle |
+| Concubus | Handcuffs | **Active** | **Blocks a target's active abilities** — the anti-Focus weapon |
+| Concubus | "Earn Your Magic, Dear" | Passive | Enemy hero's spells cost +1 mana |
+| Concubus | Nimbleness | Passive | Shoots at full strength even when adjacent |
+| Binder | Curse + counter-strip | Passive | Long Reach attacks apply a stacking pure-damage curse and strip counterattacks |
+| Abyssal Overseer | Will of the Abyss | Passive | A free second action every turn |
+| Abyssal Overseer | Pure Resistance | Passive | Immune to Pure damage |
+| Abyssal Envoy | Absolute Resistance | Passive | **Immune to all Magic Damage** |
+
+**Focus priorities:** two answers, in order. **Summoning Rite is the
+faction** — always bank the Grand Shoths' (and later Envoys') Focus
+for it, and always spend it on the highest-tier corpse available;
+this is the one active in the game that permanently grows your army
+mid-fight. Second: **Handcuffs is your tech against every
+ability-driven roster in this book** — Hive's actives, Necropolis's
+Hail!/Rewind Death, Temple's Angel Resurrection all switch off for
+the cost of one Concubus activation. The mirror warning applies:
+enemy Handcuffs/Silence hits Schism's Rite-dependent gameplan
+hardest of all.
+
+***
+
 ## Recommended magic schools (cross-referenced)
 
 **Primary: Nightshade.** Sister Keiri (Riftspeaker) starts with basic

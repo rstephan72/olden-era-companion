@@ -36,3 +36,15 @@ Pyroboros ranged-T6 discovery slightly *raises* its ceiling argument).
 Necropolis's 4/5 confirmed — the Kennelmaster/Hollow Reaper toolkit is
 even better than the chapter's tree-only draft assumed. No star
 changes required; prose already matches the data.
+
+## Ability-layer pass (2026-07-03, second factions redo)
+Added "Abilities — the passive and Focus layer" to all six chapters
+using the verified passive/active-Focus framework (first-party
+documentation). Complete for Necropolis (full ability text from the
+official Units page) and Schism (per-unit page sourcing); Temple has
+its marquee verified set (Angel Resurrection active, Griffin unlimited
+retaliation, Flying); Grove/Hive/Dungeon carry all verified
+attack-type clauses and identity passives (Sweeping Strike, spell
+immunity, Long Reach, no-counter) with named per-unit actives for
+their remaining lines tracked as the per-unit-page fetch queue.
+Temple native terrain confirmed: Grass.

@@ -111,7 +111,44 @@ this row as final; flagged for the next audit pass.*
   Dungeon spellcaster class was incomplete at time of writing; see
   `_audit.md`.)*
 
-### Recommended magic schools
+### Abilities — the passive and Focus layer
+
+How this works (verified from first-party documentation): every unit
+carries up to two kinds of special abilities. **Passives are always
+on** — auras, triggers, movement types, attack-type clauses. **Actives
+cost Focus Points**, which units accumulate by attacking and being
+attacked; bank enough and the ability fires. This layer is where
+Olden Era's combat depth actually lives — two stacks with identical
+stat lines can play completely differently — and it's what the Focus
+economy tools in this book (Murmuring, Energize, Battle March, Fancy
+Mask, Silence) exist to accelerate or deny.
+
+**Verified Dungeon abilities:**
+
+| Unit | Ability | Type | Effect |
+|---|---|---|---|
+| Whole roster | Dual attack types | Passive (identity) | Every unit switches between two attack modes — the faction's defining versatility clause |
+| Hydra line | Sweeping Strike | Passive | Every attack damages the target **and the two hexes beside it** |
+| Hydra line | No Counterattack | Passive | Sweeps are never punished — combined, a free three-hex cleave every swing |
+| Medusa line | No Range Penalty | Passive | Full damage at any distance |
+| Jasper Dancer | No Melee Penalty | Passive | The shooter core keeps damage in contact |
+| Black Dragon | Spell Immunity | Passive | Immune to spells — the Armageddon-build enabler |
+| Infiltrator line | Native Luck 1–2 | Passive | The roster's crit undercurrent |
+
+**Focus priorities:** Dungeon's verified layer is passive-heavy by
+design — its "abilities" are permanent clauses, not banked charges,
+which is exactly why the chapter rates it the most forgiving *expert*
+faction: the toolkit can't be Silenced off. The Focus game here runs
+through the **hero**: Triumvirate's Strength stances (with the Flow
+subskill: +1 Focus Charge per stance pick) turn every round's stance
+choice into ability fuel. Position Hydras so the sweep clips two
+targets minimum — a Hydra hitting one hex is leaving a third of its
+printed damage on the table. (Per-unit actives for the
+Dancer/Minotaur/Medusa lines: audit-tracked fetch.)
+
+***
+
+## Recommended magic schools
 *(Filled from the completed magic-category chapters, 2026-07-03.)*
 
 **Primary: Primal — for one legendary build and one great hero fit.**
