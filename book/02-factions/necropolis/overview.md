@@ -31,9 +31,9 @@ Known by all Necropolis hero classes (Death Knights and their magic
 counterparts), unavailable elsewhere.
 
 **What it does (official mechanics, verified):** After winning a
-battle, **transforms 20% of the strongest enemy stack into friendly
-Undead of the same tier.** This consumes Necromantic Energy, which
-stores up to 1,500 and refills each week (or when the hero has no stack
+battle, **transforms 10/15/20% (by skill rank) of the strongest enemy stack
+into friendly Undead of the same tier.** This consumes Necromantic
+Energy, which stores up to 1,000–1,500 (by rank) and refills each week (or when the hero has no stack
 of that tier). Crucially, **Necromancy works on all creatures, not just
 the Undead** — every living enemy is future army. Documented subskills
 include: native-terrain bonus (+10% dealt / -10% taken on Deathland),

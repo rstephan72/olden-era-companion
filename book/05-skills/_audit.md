@@ -3,7 +3,7 @@ Last updated: 2026-07-03 (initial pass, all three categories)
 
 | Category | Status | File | Open gaps |
 |---|---|---|---|
-| Skills | ✅ First pass complete | 05-skills/skills-overview.md | Full subskill text for ~12 remaining trees (single Skills_Overview fetch) |
+| Skills | ✅ **COMPLETE** (2nd pass) | 05-skills/skills-overview.md | ~~Subskill trees~~ RESOLVED — full Skills_Overview fetched; all 30 skills, every rank, every subskill documented verbatim. Necromancy rank %s corrected (10/15/20) and propagated to the Necropolis chapter |
 | Artifacts | ✅ First pass complete | 06-artifacts/artifacts-overview.md | Complete item-by-item stat table; Vortex Robe trigger discrepancy flagged (two sources differ) |
 | Creatures (neutral) | ✅ First pass complete | 07-creatures/neutral-creatures.md | Per-unit stat rows + mid-list tier assignments (single Neutral_Units fetch) |
 

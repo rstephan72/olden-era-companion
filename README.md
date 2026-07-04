@@ -132,7 +132,7 @@ When a balance patch lands:
 | Front matter | ✅ Introduction + curated book map |
 | Factions (6) | ✅ All chapters; full verified stat tables for 5 of 6 (Schism rows partially blocked at source — tracked); all 6 faction skills verified; Matchup Grid written |
 | Magic (5 schools) | ✅ 83/83 spells in the locked v4 format; 11 Masterful hero pairings confirmed, 2 near-confirmed, 9 open (tracked) |
-| Skills | ✅ Full taxonomy + worked Offense tree; ~12 subskill trees pending one fetch |
+| Skills | ✅ **Complete** — all 30 skills, every rank and subskill verbatim; 36-pairing synergy web; artifact-interaction guide; master fit table |
 | Artifacts | ✅ System + flagship sets + standouts; item-by-item table pending |
 | Creatures | ✅ Neutral bestiary (21 creatures, 8 tiers); stat rows pending one fetch |
 | Appendices | ✅ Combat mechanics (verified formulas + type tables) |
